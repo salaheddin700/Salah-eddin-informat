@@ -2,10 +2,44 @@
 <html lang="ar" dir="rtl">
 <head>
   <meta charset="UTF-8">
-  <title>شركة القوالب</title>
+  <title>شركة صلاح الدين للقوالب البلاستيكية</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f4f4f4;
+      text-align: center;
+      padding: 40px;
+    }
+    .container {
+      background: white;
+      padding: 30px;
+      border-radius: 15px;
+      max-width: 600px;
+      margin: auto;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #0d6efd;
+    }
+    .btn {
+      background-color: #25D366;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      text-decoration: none;
+      margin-top: 20px;
+      display: inline-block;
+    }
+  </style>
 </head>
 <body>
-  <h1>أهلاً بكم في شركة القوالب البلاستيكية</h1>
-  <p>نصنع قوالب عالية الجودة حسب الطلب.</p>
+  <div class="container">
+    <h1>شركة صلاح الدين لصناعة القوالب البلاستيكية</h1>
+    <p>نحن متخصصون في تصميم وإنتاج قوالب بلاستيكية دقيقة وعالية الجودة حسب الطلب.</p>
+    <p>📍 الجزائر - خدمات محلية وصناعية</p>
+    <a class="btn" href="https://wa.me/213555123456" target="_blank">تواصل معنا عبر واتساب</a>
+  </div>
 </body>
 </html>
